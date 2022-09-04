@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Sola</h1>
-<h3 align="center">Systems Engineering student at UTN FFRRo, Rosario, Argentina <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_flag_icon.svg" alt="ARG flag" width="20" height="20" > </h3>
+<h3 align="center">Systems Engineering student at UTN FRRo, Rosario, Argentina <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_flag_icon.svg" alt="ARG flag" width="20" height="20" > </h3>
 
 <br>
 
